@@ -1,1 +1,1 @@
-# image-editor
+This code creates a simple photo editor web application where users can upload an image, apply various filters, reset the image to its original state, and save the edited image. The main technologies used are HTML, CSS, and JavaScript.
